@@ -1,3 +1,5 @@
+# Deprecated!
+You should probably be using [AppManager](https://github.com/JaydenDev/AppManager)
 # BrowserManager
 Install any web browser with ease!
 # Not working yet!

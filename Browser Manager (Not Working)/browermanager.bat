@@ -1,4 +1,5 @@
 @echo off
+echo "BrowserManager is discontinued, please try out AppManager!"
 
 :begin
 echo "Which browser?"
